@@ -8,11 +8,9 @@ aplicação eficiente para gerenciar todas as suas tarefas. 📝✨
 ## Funcionalidades Principais:
 - **Criação de Tarefas**: Adicione, edite e exclua tarefas facilmente. ✍️🗑️
 - **Categorias**: Organize suas tarefas em categorias, como Trabalho, Pessoal, Estudos, etc. 🗂️📁
-- **Prioridades**: Defina níveis de prioridade para garantir que as tarefas mais importantes sejam concluídas primeiro! 🔝⚡
-- **Datas de Conclusão**: Acompanhe os prazos para nunca mais perder um compromisso. 📅⏰
 
 
 ## Objetivo:
 O objetivo deste projeto é fornecer uma ferramenta prática e eficiente para ajudar você a manter 
-suas tarefas organizadas e priorizadas, permitindo um gerenciamento de tempo mais eficaz e uma 
+suas tarefas organizadas, permitindo um gerenciamento de tempo mais eficaz e uma 
 vida mais produtiva. 💪🕒
